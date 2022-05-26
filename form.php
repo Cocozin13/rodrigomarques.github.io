@@ -2,7 +2,7 @@
 
 //Doesn't work with github pages
 
-if (isset($_POST['submit']))
+/*if (isset($_POST['submit']))
 {
     $name = $_POST['name'];
     $mailFrom = $_POST['email'];
@@ -15,4 +15,4 @@ if (isset($_POST['submit']))
 
     mail($mailTo, $subject, $txt; $headers);
     header("Localização: index.html?mailsend");
-}
+}*/
