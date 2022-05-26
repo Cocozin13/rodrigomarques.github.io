@@ -1,5 +1,7 @@
 <?php
 
+//Doesn't work with github pages
+
 if (isset($_POST['submit']))
 {
     $name = $_POST['name'];
