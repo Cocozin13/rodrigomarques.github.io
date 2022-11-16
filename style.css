@@ -215,12 +215,12 @@ body {
 
 #projects {
 	display: grid;
-	grid-template-rows: 500px 500px;
+	grid-template-rows: 500px 500px 500px;
 	grid-template-columns: 800px;
 	grid-gap:50px;
 	justify-content: center;
 	margin-top: 150px;
-	margin-bottom: 100px;	
+	margin-bottom: 200px;	
 }
 
 .titleProjects
@@ -269,6 +269,11 @@ body {
 #square2
 {
 	background-image: url("imagens/MHWheelPrint.png");
+}
+
+#square3
+{
+	background-image: url("imagens/CalcReact.png");
 }
 
 #info
